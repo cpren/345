@@ -18,8 +18,5 @@
     <statement name="DO0">
       <block type="movement_forward" id="44"></block>
     </statement>
-    <next>
-      <block type="movement_stop" id="54"></block>
-    </next>
   </block>
 </xml>
